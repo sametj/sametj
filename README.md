@@ -43,7 +43,18 @@
 [Check out my progress!](https://www.codedex.io/@Sametj/30-nites-of-code)  
  ![@Sametj #30NitesOfCode](https://www.codedex.io/api/petStatus?user=Sametj)
 
-##Contact Me
+## Contact Me
+
+<p align="center">
 <a href="www.linkedin.com/in/temitope-james">
 <img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white ">
 </a>
+
+<a href="https://temitope-moses-james-portfolio.netlify.app">
+  <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white">
+</a>
+
+<a href="https://twitter.com/Same_TeeJay">
+  <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white">
+</a>
+</p>
