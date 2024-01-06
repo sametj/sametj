@@ -51,8 +51,9 @@ Check out my progress
 ## Contact Me
 
 <p align="center">
-<a href="www.linkedin.com/in/temitope-james">
-<img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white ">
+
+<a href="https://www.linkedin.com/in/temitope-james/">
+  <img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white ">
 </a>
 
 <a href="https://temitope-moses-james-portfolio.netlify.app">
