@@ -2,7 +2,7 @@
   Hello! My Name is Temitope Moses James  
 </h2>
 <h4 align="center">
-  [Full Stack Web Developer]
+  [Full Stack Developer]
 </h4>
 
 <!-- About Section -->
