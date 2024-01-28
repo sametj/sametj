@@ -92,7 +92,7 @@ Check out my progress
   <img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white ">
 </a>
 
-<a href="[https://temitope-moses-james-portfolio.netlify.app](https://temitope-james-portfolio.vercel.app)">
+<a href="https://temitope-james-portfolio.vercel.app">
   <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white">
 </a>
 
