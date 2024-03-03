@@ -76,13 +76,9 @@
 
 ## #30NitesOfCode:
 
-<p align="center">
-<a href="https://www.codedex.io/@Sametj/30-nites-of-code" alt="Check out my progress">
-Check out my progress
-<br>
-<img src="https://www.codedex.io/api/petStatus?user=Sametj">
-</a>
-</p>
+## #30NitesOfCode:
+  [Check out my progress!](https://www.codedex.io/@TeeJay/30-nites-of-code)  
+  ![@TeeJay #30NitesOfCode](https://www.codedex.io/api/petStatus?user=TeeJay)
 
 ## Contact Me
 
